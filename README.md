@@ -1,9 +1,11 @@
 # G2B1_BED_GradedProject3
 Ticket-Tracker Application
 
-Problem Statement:- CRUDS (Create, Read, Update, Delete, Search) functionality for a Ticket Tracker Application.
+Problem Statement:- CRUDS (Create, Read, Update, Delete, Search) functionality for a Ticket Tracker Application, with Spring Authentication and Authorization.
 
 Search Functionality (search query over Title and short description).
+
+With Spring Security Enabled
 
 Requirements:- JDK8 or above, MySQL8, Java IDE(Eclipse, IntelliJ, ...) 
 
