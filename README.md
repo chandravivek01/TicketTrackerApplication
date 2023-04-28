@@ -9,7 +9,7 @@ With Spring Security Enabled
 
 Requirements:- JDK8 or above, MySQL8, Java IDE(Eclipse, IntelliJ, ...) 
 
-Maven Dependencies:- Starter-Web, Spring-Data-JPA, Spring-Test, Devtools, MySQL, Swagger-UI, Lombok, Thymeleaf
+Maven Dependencies:- Starter-Web, Spring-Data-JPA, Spring-Test, Devtools, MySQL, Swagger-UI, Lombok, Thymeleaf, Spring-Security
 
 Plugins for the Frontend:- JQuery, FontAwesome, Rich Text Editor
 
